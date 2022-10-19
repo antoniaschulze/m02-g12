@@ -1,0 +1,99 @@
+body{background-color: rosybrown;}
+
+#box {width: 1200px;
+padding: 30px;
+margin-left: 70px;
+float: center;
+background: ghostwhite;
+height: 1200px;
+}
+
+#intro {width: 1135px;
+height: 500px;
+padding: 30px;
+float: center;
+background: grey;
+}
+
+h1 {width: 350px;
+height: 40px;
+background-color: rosybrown;
+padding: 10px;
+margin-top: .10px;}
+
+img { width: 245px;
+height: 290px; }
+
+p {width: 1121px;
+height: 65px;
+background-color: rosybrown;
+padding: 12px;
+font-weight: bolder;
+font-size: large;
+margin-top: 20px;
+padding-top: 10px;
+}
+
+#paper {width: 1185px;
+height: 200px;
+margin-top: 20px;
+padding-top: 1px;
+padding-left: 10px;
+float: center;
+background: grey;}
+
+h2 {width: 350px;
+background-color: rosybrown;
+padding: 5px;
+margin-left: 18px;
+font-weight: bolder;}
+
+h3 {width: 1128px;
+height: 90px;
+background-color: rosybrown;
+padding: 5px;
+margin-left: 18px;
+font-weight: bolder;}
+
+object { width: 380px;
+height: 390px;}
+
+#ideas{width: 180px;
+margin-top: -265px;
+margin-left: 130px;
+color: whitesmoke;
+font-weight: bolder;
+font-size: x-large;}
+
+h4 { width: 600px;
+background-color: rosybrown;
+padding: 10px; 
+margin-left: 500px;
+margin-top: -110px;
+font-size: medium;}
+
+h5 { width: 600px;
+background-color: rosybrown;
+padding: 10px; 
+margin-left: 500px;
+margin-top: 25px;
+font-size: medium;}
+
+h6 { width: 600px;
+background-color: rosybrown;
+padding: 10px; 
+margin-left: 500px;
+margin-top: 25px;
+font-size: medium;}
+
+
+
+
+
+
+
+
+
+
+
+
